@@ -418,13 +418,11 @@ install.packages("devtools")
 devtools::install_github("RamiKrispin/coronavirus")
 ```
 
-The data and dashboard are refreshed on a daily basis.
-
 The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus [repository](https://github.com/RamiKrispin/coronavirus-csv){target="_blank"}.
 
 **Information**
 
-More information about this dashboard (and how to replicate it for your own country) can be found in this [article](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
+More information about this dashboard (and how to replicate it for your own country) can be found in this [article](https://statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
 
 **Update**
 
@@ -432,4 +430,4 @@ The data is as of `r format(max(coronavirus$date), "%A %B %d, %Y")` and the dash
 
 <br>
 
-*Go back to [www.statsandr.com](https://www.statsandr.com/) (blog) or [www.antoinesoetewey.com](https://www.antoinesoetewey.com/) (personal website)*.
+*Go back to [statsandr.com](https://statsandr.com/) (blog) or [antoinesoetewey.com](https://www.antoinesoetewey.com/) (personal website)*.
