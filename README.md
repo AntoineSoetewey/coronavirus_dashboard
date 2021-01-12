@@ -29,13 +29,13 @@ Engineering (JHU CCSE) Coronavirus
 
 More information about this dashboard and how to replicate it for your
 own country can be found in this
-[article](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
+[article](https://statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
 
 For any question or feedback, you can [contact
-me](https://www.statsandr.com/contact/).
+me](https://statsandr.com/contact/).
 
 <br>
 
-*Go back to [www.statsandr.com](https://www.statsandr.com/) (blog) or
+*Go back to [statsandr.com](https://statsandr.com/) (blog) or
 [www.antoinesoetewey.com](https://www.antoinesoetewey.com/) (personal
 website)*.
