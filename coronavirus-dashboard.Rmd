@@ -88,21 +88,6 @@ valueBox(
 )
 ```
 
-
-<!-- ### active {.value-box} -->
-
-<!-- ```{r} -->
-<!-- valueBox( -->
-<!--   value = paste(format(sum(df$unrecovered, na.rm = TRUE), big.mark = ","), " (", -->
-<!--     round(100 * sum(df$unrecovered, na.rm = TRUE) / sum(df$confirmed), 1), -->
-<!--     "%)", -->
-<!--     sep = "" -->
-<!--   ), -->
-<!--   caption = "Active cases (% of total cases)", icon = "fas fa-ambulance", -->
-<!--   color = active_color -->
-<!-- ) -->
-<!-- ``` -->
-
 ### death {.value-box}
 
 ```{r}
@@ -403,7 +388,7 @@ About
 
 **The Coronavirus Dashboard: the case of Belgium**
 
-This [Coronavirus dashboard: the case of Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic for Belgium. This dashboard is built with R using the R Makrdown framework and was adapted from this [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/){target="_blank"} by Rami Krispin.
+This [Coronavirus dashboard: the case of Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic for Belgium. This dashboard is built with R using the R Markdown framework and was adapted from this [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/){target="_blank"} by Rami Krispin.
 
 **Code**
 
